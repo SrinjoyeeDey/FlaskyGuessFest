@@ -1,8 +1,3 @@
-✨FlaskyGuessFest✨
-
-
----
-
 # ✨ Flasky Guess Fest 🎯🎉  
 
 > A ✨mini web adventure✨ into the magical world of number guessing and GIFs!
