@@ -25,7 +25,7 @@ Because…
 
 ## 🔧 How to Run It
 
-1. Clone this baby:
+1. Clone this:
    ```bash
    git clone https://github.com/your-username/flasky-guess-fest.git
    cd flasky-guess-fest
