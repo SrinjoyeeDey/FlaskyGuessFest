@@ -21,6 +21,11 @@ Because…
 - I love adding ✨ personality ✨ to simple projects  
 - I wanted to create a tiny customizable web framework that others can remix!
 
+## 📸 Sneak Peek!
+
+Wanna see the chaos in action?
+
+
 ## 🔧 How to Run It
 
 1. Clone this baby:
